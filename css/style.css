@@ -63,3 +63,37 @@ img {
     border: solid darkcyan 1px;
     border-radius: 5px;
 }
+table {
+    
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .subrr {
+    text-decoration: underline;
+    font-style: italic;
+  }
+  .text1{
+    font-family: 'Montserrat', sans-serif;
+
+  }
+ 
+  td{
+    font-family: 'Montserrat', sans-serif;
+
+  }
+
+  .tbl {
+    border: solid darkcyan 1px;
+    border-radius: 5px;
+  }
